@@ -3,6 +3,10 @@
 ## 🧾 Description
 An interactive Power BI dashboard created to visualize and analyze survey data collected from users. The report provides insights into demographics, satisfaction levels, and trends based on user responses.
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](screenshots/Survey-Dashboard.png)
+
 ## 🛠️ Tools Used
 - Power BI Desktop
 - Power Query
