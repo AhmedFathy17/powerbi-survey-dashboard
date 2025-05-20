@@ -5,7 +5,7 @@ An interactive Power BI dashboard created to visualize and analyze survey data c
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard-preview.png)
+![Dashboard Screenshot](screenshots/Survey-Dashboard1.png)
 
 
 ## 🛠️ Tools Used
